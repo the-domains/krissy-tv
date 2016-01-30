@@ -1,14 +1,25 @@
-layout_spectrum: 0.7520908
-typography_spectrum: 0.5776583
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7062476
-  lightness: 0.7383116
   brandStrength: 1
+  lightness: 0.7383116
   brandColors:
-    - '#1E1716'
-    - '#5C4A39'
-    - '#EA8065'
-    - '#D0BD9B'
-    - '#9BB6E1'
+    - '#777F92'
+    - '#D7E0EA'
+    - '#B4BECE'
+    - '#88765C'
   rhythmicContrast: 0.1476033
+typography_spectrum: 0.5776583
+layout_spectrum: 0.7520908
 name: Krissy.TV
