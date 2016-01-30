@@ -1,0 +1,14 @@
+layout_spectrum: 0.7520908
+typography_spectrum: 0.5776583
+color:
+  saturation: 0.7062476
+  lightness: 0.7383116
+  brandStrength: 1
+  brandColors:
+    - '#1E1716'
+    - '#5C4A39'
+    - '#EA8065'
+    - '#D0BD9B'
+    - '#9BB6E1'
+  rhythmicContrast: 0.1476033
+name: Krissy.TV
