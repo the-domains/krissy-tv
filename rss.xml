@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Krissy.TV]]></title>
         <description><![CDATA[Krissy.TV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/krissy-tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 08:06:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 08:07:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krissy-tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>When I was nine, a jealous neighbor girl told me I had a terrible voice. After hearing that, having no reason not to believe her, I didn't sing for twenty years. Immidiately I started lip syncing in choir practice, sure that I was ruining the song for other kids... A few years ago i noticed this "you have a terrible voice" story I was carrying around and decided to drop it. I still probably have a "terrible voice" but I'm going to sing more and more. It makes me feel as good as jumping on the trampoline or snowboarding with people I love and respect. Here's to the journey. </p>]]></description>
-            <link>undefinedda26e7f4-9723-424b-ab60-1cb01ce0be14/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f8bca75-469b-4267-a1c9-af1f0d4ebac5.png">]]></description>
+            <link>https://thegrid.ai/krissy-tv/da26e7f4-9723-424b-ab60-1cb01ce0be14/index.html</link>
             <guid isPermaLink="false">da26e7f4-9723-424b-ab60-1cb01ce0be14</guid>
-            <pubDate>Tue, 02 Feb 2016 08:05:35 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 08:07:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
